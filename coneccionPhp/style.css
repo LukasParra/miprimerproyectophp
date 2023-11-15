@@ -1,0 +1,34 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: century;
+}
+
+form {
+    padding: 50px 20px;
+    /*width: 100%;*/
+    background-color: #ededed;
+    margin: calc(25% + 8px);
+    margin-top: 70px;
+    padding-top: 28px;
+}
+
+h1 {
+    text-align: center;
+    padding: 12px;
+    color: #444;
+}
+
+input{
+    width: calc(100% - 20px);
+    padding: 9px;
+    margin: 5px;
+    font-size: 16px;
+}
+
+input[type='submit']{
+    background-color: #48e;
+    width: 100%;
+    border: none;
+    
+}
